@@ -4,9 +4,9 @@ So, what the hell? Well...
 The ultimate [3Dash](https://delugedrop.itch.io/3dash) modpack.
 
 ## Included
-- 6Dash
-- 3Dash+
-- Additionally 3DashTools
+- [6Dash](https://github.com/cgytrus/SixDash)
+- [3Dash+](https://3dash.mg95.dev/)
+- Additionally [3DashTools](https://github.com/cgytrus/ThreeDashTools)
 
 ## Installation
 
