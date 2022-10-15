@@ -14,4 +14,4 @@ The ultimate [3Dash](https://delugedrop.itch.io/3dash) modpack.
 Not available
 
 ### Manual install
-Follow the steps on the [patcher](https://github.com/3Dash-Deluxe/Patcher) readme.
+Follow the steps on the [patcher](https://github.com/3DashDeluxe/Patcher) readme.
